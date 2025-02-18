@@ -5,7 +5,7 @@
   font-family: Arial, sans-serif;
 }
 
-/* Main Layout */
+
 .container {
   display: flex;
   justify-content: center;
@@ -15,7 +15,7 @@
   flex-wrap: wrap;
 }
 
-/* Left Section - Facebook Tagline */
+
 .left-section {
   flex: 1;
   padding: 50px;
@@ -28,13 +28,13 @@
   color: #1c1e21;
 }
 
-/* Right Section - Contains Logo & Login */
+
 .right-section {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 450px; /* Increased width */
+  width: 450px; 
 }
 
 
